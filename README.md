@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @felipeAngelucci
 - 👀 I’m interested in developing software and I specialize in iOS development and web development.
-- 🌱 I’m currently learning Swift and how to build iOS applications.
-- 💞️ I’m looking to collaborate on website projects to hone my skills in web development.
-- 📫 How to reach me: In real life if I meet you on campus at UNH at Manchester, I prefer not to be reached by email or phone unless it's by employers.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned about programming in 2020 when I was bored and I decided to learn how to build my own website! The rest is history.
 
 <!---
 felipeAngelucci/felipeAngelucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
